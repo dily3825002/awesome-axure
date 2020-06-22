@@ -92,4 +92,4 @@ todo
 
 关注我的视频号，了解研发、产品、设计、市场知识👋
 
-<img src="img/image-20200622104744004.png" alt="image-20200622104744004" width="50%" style="margin: 0 auto;" />
+<img src="img/image-20200622104744004.png" alt="image-20200622104744004" width="50%" align="center" />
