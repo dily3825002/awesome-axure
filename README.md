@@ -63,15 +63,11 @@ Sketch 有大量精美的高保真图表库，但是 Axure 没有相应的组件
 
 ### 高级图表
 
-todo
-
-### 3D地图
-
-todo
+![image-20200623150941761](img/image-20200623150941761.png)
 
 ### 地图
 
-todo
+![image-20200623151114823](img/image-20200623151114823.png)
 
 ## AntDesignChart 下载
 
